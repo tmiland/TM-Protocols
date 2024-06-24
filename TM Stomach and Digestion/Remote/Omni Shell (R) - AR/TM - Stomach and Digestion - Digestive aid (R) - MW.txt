@@ -1,0 +1,237 @@
+"[Preset]"
+"PresetName=TM - Stomach and Digestion - Digestive aid (R) - MW"
+"Padlock=0"
+"Amplitude_Modulation_Enabled=0"
+"Repeat_Each_Frequency=1"
+"Repeat_Each_Program=1"
+"Repeat_Sequence=1"
+"Frequency_Slider_Scale=1"
+"Repeat_Chain=1"
+"Frequency_Multiplier=1"
+"Out1_Phase_Angle=0"
+"Duty_Cycle=50"
+"BFB_Start_Frequency=76000"
+"BFB_Finish_Frequency=100000"
+"BFB_Initial_Step_Size_Hz=100"
+"BFB_Decimal_Places=2"
+"BFB_Max_Hits_To_Find=4"
+"BFB_Start_Delay=20"
+"BFB_Samples_Per_Step=1"
+"BFB_Initial_Step_Size_%=.025"
+"Email_Address="
+"Program_Description=Minerals - Sodium
+Other names: Natrium, Sodio, Sodium metal, Sodio. Properties: crucial for proper function of the whole body. Benefits and Uses: helps improve brain function. Muscle cramps. Anti-aging. Eliminates excess carbon dioxide. Regulates glucose absorption. Maintains acid/base balance. Regulation of fluids. Balance of ions. Maintains heart health. Cautions: excess sodium in diet may lead to high blood pressure in some, and may cause serious buildup of fluid in those with congestive heart failure, liver cirrhosis, or kidney disease. CID: 5360545. Formula: Na. Source: https://pubchem.ncbi.nlm.nih.gov/compound/sodium, https://www.organicfacts.net/health-benefits/minerals/sodium.html, http://www.nytimes.com/health/guides/nutrition/sodium-in-diet/overview.html
+"
+"Amplitude=7"
+"Out1_Offset=0"
+"Out2_Hz_Factor=1"
+"Out2_Hz_Constant=0"
+"Swap_Waveform_Time=19"
+"Out1_Shadow_Generator=0"
+"Out1_Shadow_Hz_Factor=0"
+"Out1_Shadow_Hz_Constant=0"
+"Schedule_Run_For=0"
+"Schedule_Delay_Start_Days=0"
+"Schedule_Delay_Start_Hours=0"
+"Schedule_Delay_Start_Minutes=0"
+"Out1_Fixed_Frequency=0"
+"Out2_Offset=0"
+"Out2_Phase_Angle=0"
+"Preset_Notes=This is a Remote Mode empty shell preset with unusual and powerful settings designed by Ari Rosener which produce the unique waveform we call 'The Crown of Thorns.' Use them with any database program, including those for healing.
+
+Ari has asked us not to place a copyright warning on them, and we're happy to oblige.
+
+- The Spooky2 ICU Team
+
+Taurine (MW)
+Taurine
+A conditionally essential nutrient, important during mammalian development. It is present in milk but is isolated mostly from ox bile and strongly conjugates bile acids.
+Intravenous
+
+Pancrelipase (MW)
+Pancrelipase is an enzyme mixture isolated from porcine or bovine pancreas, sometimes called pancreatin. It contains 3 enzymes: amylase, lipase, and a protease(chymotrypsin). Pancrelipase is marketed under several brand names such as Ultresaa and Viokacea.
+The lipase, protease and amylase components of pancrelipase break down fat, protein, and starches, respectively, in the small intestine. Lipase hydrolyzes fats into glycerol and fatty acids. Protease converts proteins into proteoses and derived substances, while amylase converts starches into dextrins and sugars.
+Pancrelipase is eliminated in the feces.
+Oral
+Used in the treatment of cystic fibrosis or pancreatic dysfunction, pancrelipase helps improve fat digestion in the small intestine. Specifically, the lipase, protease and amylase components break down fat, protein, and starches, respectively, in the small intestine. Lipase hydrolyzes fats into glycerol and fatty acids. Protease converts proteins into proteoses and derived substances, while amylase converts starches into dextrins and sugars. Pancreatic enzymes are used to correct maldigestion, malabsorption and pain associated with pancreatic insufficiency. The major maldigestion/malabsorption problems arise from incomplete fat digestion. Exogenous pancrelipase reduces the amount of nitrogen and fat excreted in the stool.
+liquid
+Pancrelipase is not significantly absorbed from the gastrointestinal tract.
+Pancrelipase acts locally, so there is minimal metabolism.
+50 mg
+Delayed release capsules should not be broken or crushed, but for those patients who cannot swallow the capsules, sprinkle the contents of the capsule onto soft acidic foods(pH of <=4.5). Alkaline foods with a higher pH will promote early release of pancrelipase followed by enzyme inactivation in the stomach.
+
+
+Tinzaparin (MW)
+Tinzaparin is a low molecular weight heparin(LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III(ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+Tinzaparin binds to the plasma protein antithrombin III, forming a complex with then accelerates the inhibition of factor Xa. Its affinity for factor Xa is 2-4 times greater than that of unbound ATIII. The inactivation of factor Xa in turn will exponentially generation of thrombin(factor IIa) molecules, which is needed to activate fibrinogen to fibrin. The coagulation cascade is inhibited because fibrin cannot be formed in the presence of tinzaparin. Like all LMWH, it cannot be given intramuscularly due to increased risk of hematoma.
+Linear elimination through kidneys
+Zinc ion binding
+Cleaves aggrecan, a cartilage proteoglycan, and may be involved in its turnover. May play an important role in the destruction of aggrecan in arthritic diseases. Could also be a critical factor in the exacerbation of neurodegeneration in Alzheimer disease. Cleaves aggrecan at the '392-Glu- -Ala-393' site.
+Subcutaneous
+Osteoporosis with increasing duration of use, bleeding, alopecia, heparin induced thrombocytopenia(HIT). All of these adverse drug reactions occur less with LMWH compared to unfractionated heparin. Tinzaparin showed no toxic effects at doses up to 5 mg/kg in mice, rats, or dogs in standard acute, subacute, and chronic toxicity studies.
+Tinzaparin, like other LMWHs, have a higher anti-Xa activity than anti-IIa activity. The anti-Xa activity of tinzaparin is 2.0 +/- 0.5 times greater than its to anti-IIa activity. Heparin exhibits approximately equal inhibitory activity against Xa and IIa. Tinzaparin is an anticoagulant that blocks the formation of thrombi. Like all LMWHs, tinzaparin only causes activated partial thromboplastin time(aPTT) prolongation at higher doses and routine monitoring is not recommended. However, anti-factor Xa levels may be monitored in some conditions such as pregnancy and renal dysfunction. Its use should be avoided in patients with a creatinine clearance less than 20 mL/min. In these patients, unfractionated heparin should be used. Tinzaparin can be used in patients who have a creatinine clearance between 20-30 mL/min, giving it the highest safety threshold for use in renal failure patients compared to all the LMWHs.
+solid
+Subcutaneous injection - about 90% when measured as anti-Xa activity versus 67% for anti-IIa activity.
+Sulfation and polymerization occurs in the liver.
+20000 [iU]/mL
+Herbs with anticoagulant/antiplatelet properties(ginger, gingko, garlic) may increase the risk of bleeding.
+
+Sulforaphane (MW)
+Sulforaphane
+This is an experimental program provided by Karl Becker. Sulforaphane (SFN) is the most characterized isothiocyanate. SFN has received a great deal of attention because of its ability to simultaneously modulate multiple cellular targets involved in cancer development, including: (i) DNA protection by modulating carcinogen-metabolizing enzymes and blocking the action of mutagens; (ii) inhibition of cell proliferation and induction of apoptosis, thereby retarding or eliminating clonal expansion of initiated, transformed, and/or neoplastic cells; (iii) inhibition of neoangiogenesis, progression of benign tumors to malignant tumors, and metastasis formation. SFN is therefore able to prevent, delay, or reverse preneoplastic lesions, as well as to act on cancer cells as a therapeutic agent. Taking into account this evidence and its favorable toxicological profile, SFN can be viewed as a conceptually promising agent in cancer prevention and/or therapy. SFN is the hydrolysis product of glucoraphanin, particularly high in the young sprouts of broccoli and cauliflower. SFN can also be obtained by eating cruciferous vegetables such as brussel sprouts, broccoli, cauliflower, bok choy, kale, collards, arugula, broccoli sprouts, chinese broccoli, broccoli raab, kohlrabi, mustard, turnip, radish, watercress and cabbage. (PMID: 17134937).
+
+Tauroursodeoxycholic acid (MW)
+Tauroursodeoxycholic acid is the more hydrophilic form of ursodeoxycholic acid, which is the more abundant naturally produced bile acid in humans. Tauroursodeoxycholic acid, on the other hand, is produced abundantly in bears and has been used for centuries as a natural remedy in some Asian countries. It is approved in Italy and Turkey for the treatment of cholesterol gallstones and is an investigational drug in China, Unites States, and Italy. Tauroursodeoxycholic acid is being investigated for use in several conditions such as Primary Biliary Cirrhosis(PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis. The only completed clinical trial thus far is a phase III clinical trial comparing tauroursodeoxycholic acid and ursofalk in PBC adult patients, but as of June 2013 no results of this trial have been published.
+Testosterone 6-beta-hydroxylase activity
+Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics.
+solid
+"
+"Settings_Frequency_Wobble_Percentage=.1"
+"Settings_Amplitude_Wobble_Steps=16"
+"Settings_Amplitude_Wobble_Percentage=0"
+"Settings_Frequency_Wobble_Steps=19"
+"Out1_Max_Freq=0"
+"Out1_Min_Freq=0"
+"Out2_Max_Freq=0"
+"Out2_Min_Freq=0"
+"Hz_Gate=4"
+"Reduce_Amplitude_Frequency=10"
+"Gating_mS_Off=125"
+"Dwell_Multiplier=1"
+"Sine_WCM=1"
+"Square_WCM=13"
+"Sawtooth_WCM=1"
+"Inverted_Sawtooth_WCM=1"
+"Triangle_WCM=7"
+"Sine_Damped_WCM=8"
+"Square_Damped_WCM=8"
+"Sine_Hbomb_WCM=16"
+"Square_Hbomb_WCM=16"
+"User_Defined_1_WCM=1"
+"User_Defined_2_WCM=1"
+"Sine_Spike_Length=0"
+"Square_Spike_Length=3"
+"Sawtooth_Spike_Length=0"
+"Inverted_Sawtooth_Spike_Length=0"
+"Triangle_Spike_Length=7"
+"SineDamped_Spike_Length=0"
+"Square_Damped_Spike_Length=0"
+"Sine_Hbomb_Spike_Length=0"
+"Square_Hbomb_Spike_Length=0"
+"User_Defined_1_Spike_Length=0"
+"User_Defined_2_Spike_Length=0"
+"Sine_Spike_Ratio=2"
+"Square_Spike_Ratio=2"
+"Sawtooth_Spike_Ratio=2"
+"Inverted_Sawtooth_Spike_Ratio=2"
+"Sine_Damped_Spike_Ratio=2"
+"Square_Damped_Spike_Ratio=2"
+"Sine_Damped_Spectrum=2"
+"Square_Hbomb_Spike_Ratio=2"
+"User_Defined_1_Spike_Ratio=2"
+"User_Defined_2_Spike_Ratio=2"
+"Sine_Spectrum=0"
+"Square_Spectrum=0"
+"Sawtooth_Spectrum=0"
+"Inverted_Sawtooth_Spectrum=0"
+"Triangle_Spectrum=0"
+"Square_Damped_Spectrum=0"
+"Sine_Hbomb_Spectrum=0"
+"Square_Hbomb_Spectrum=0"
+"User_Defined_1_Spectrum=0"
+"User_Defined_2_Spectrum=0"
+"F1_Factor=1"
+"F1_Phase_Angle=0"
+"Maximum_Spike_Count=0"
+"F1_Modulation_Type=Add F1 to F2"
+"Harmonic_Wobble=None"
+"Schedule_Run_From=Midnight"
+"Schedule_Run_To=Midnight"
+"Frequency_Limit_Harmonic_Type=Odd"
+"Frequency_Sort_Option=Do NOT sort frequencies"
+"Amplitude_Wobble_Type=Disabled"
+"Frequency_Wobble_Type=Triangle"
+"User_Defined_1_Waveform=Colloidal Silver"
+"User_Defined_2_Waveform=Sine"
+"Auto_Start=False"
+"Auto_Resume=False"
+"Manual_Start=False"
+"Out2_Follow_Out1_Frequency=True"
+"Out1_Fixed_Frequency=False"
+"Gate_Hz_Option=True"
+"Gate_On_Off_Duration_Option=False"
+"BFB_Calculate_Using_RA=True"
+"BFB_Calculate_Using_Peak=False"
+"BFB_BPM=True"
+"BFB_HRV=False"
+"BFB_Angle=False"
+"BFB_Detect_Max=True"
+"BFB_Detect_Min=False"
+"BFB_Detect_mA=False"
+"BFB_Initial_Step_Size_Hz_Selected=True"
+"BFB_Initial_Step_Size_%_Selected=False"
+"BFB_Detect_Angle_And_mA=False"
+"Out1_Sine=False"
+"Out1_Square=True"
+"Out1_Sawtooth=False"
+"Out1_Inverted_Sawtooth=False"
+"Out1_Triangle=False"
+"Out1_Sine_Damped=False"
+"Out1_Square_Damped=False"
+"Out1_Sine_Hbomb=False"
+"Out1_Square_Hbomb=False"
+"Out1_User_Defined_1=False"
+"Out1_User_Defined_2=False"
+"Out2_Sine=False"
+"Out2_Square=False"
+"Out2_Sawtooth=False"
+"Out2_Inverted_Sawtooth=False"
+"Out_2_Triangle=True"
+"Out2_Sine_Damped=False"
+"Out2_Square_Damped=False"
+"Out2_Sine_Hbomb=False"
+"Out2_Square_Hbomb=False"
+"Out2_User_Defined_2=False"
+"Follow_Out2=False"
+"Spike_Plus_Sync=False"
+"Inverse_Plus_Sync=False"
+"Enable_F2_Modulation=0"
+"Enable_Reduce_Low_Frequency_Amplitude=0"
+"BFB_Single_Scan=0"
+"BFB_Grade_Program=0"
+"BFB_2DP_Max=1"
+"Enable_Gate_Out1=0"
+"Enable_Gate_Out2=0"
+"Enable_Tissue_Factor=0"
+"Enable_Remove_Duplicate_Frequencies=0"
+"Enable_Positive_Spike=1"
+"Enable_Negative_Spike=1"
+"Negative_Edge_For_Spike=0"
+"Enable_Invert_Sine=0"
+"Enable_Invert_Square=0"
+"Enable_Invert_Sawtooth=0"
+"Enable_Invert_Inverted_Sawtooth=0"
+"Enable_Invert_Triangle=0"
+"Enable_Invert_Sine_Damped=0"
+"Enable_Invert_Square_Damped=0"
+"Enable_Invert_Sine_Hbomb=0"
+"Enable_Invert_Square_Hbomb=0"
+"Enable_Invert_User_Defined_1=0"
+"Enable_Invert_User_Defined_2=0"
+"Enable_Invert_Spike_Waveform=0"
+"Enable_Amplitude_RampUp=0"
+"Enable_Amplitude_Ramp_Down=0"
+"Enable_Swap_Frequency_And_Amplitude=0"
+"Notify_When_Zero_Hz=0"
+"Out2_Subtract_DataBase_Frequency=0"
+"Loaded_Programs=Taurine (MW)"
+"Loaded_Programs=Pancrelipase (MW)"
+"Loaded_Programs=Tinzaparin (MW)"
+"Loaded_Programs=Sulforaphane (MW)"
+"Loaded_Programs=Tauroursodeoxycholic acid (MW)"
+"Loaded_Frequencies=~7111M215.649=180,"
+"Loaded_Frequencies=~7291M351223.9=180,"
+"Loaded_Frequencies=~3838M89307.78=180,"
+"Loaded_Frequencies=~9009M819.49=180,"
+"Loaded_Frequencies=~5666M444.14=180,"
+"[/Preset]"
