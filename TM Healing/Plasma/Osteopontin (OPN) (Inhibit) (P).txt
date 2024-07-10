@@ -190,7 +190,9 @@ Hip osteoarthritis
 An increase in Plasma OPN levels has been observed in patients with idiopathic hip OA. Furthermore, a correlation between OPN plasma levels and the severity of the disease has been noted.[112]
 Fertilized egg implantation
 
-OPN is expressed in endometrial cells during implantation. Due to the production of progesterone by the ovaries, OPN is up-regulated immensely to aid in this process. The endometrium must undergo decidualization, the process in which the endometrium undergoes changes to prepare for implantation, which will lead to the attachment of the embryo. The endometrium houses stromal cells that will differentiate to produce an optimal environment for the embryo to attach (decidualization). OPN is a vital protein for stromal cell proliferation and differentiation as well as it binds to the receptor avﬂ3 to assist with adhesion. OPN along with decidualization ultimately encourages the successful implantation of the early embryo. An OPN gene knock-out results in attachment instability at the maternal-fetal interface.[113][114] "
+OPN is expressed in endometrial cells during implantation. Due to the production of progesterone by the ovaries, OPN is up-regulated immensely to aid in this process. The endometrium must undergo decidualization, the process in which the endometrium undergoes changes to prepare for implantation, which will lead to the attachment of the embryo. The endometrium houses stromal cells that will differentiate to produce an optimal environment for the embryo to attach (decidualization). OPN is a vital protein for stromal cell proliferation and differentiation as well as it binds to the receptor avﬂ3 to assist with adhesion. OPN along with decidualization ultimately encourages the successful implantation of the early embryo. An OPN gene knock-out results in attachment instability at the maternal-fetal interface.[113][114] 
+
+Source: https://en.wikipedia.org/wiki/Osteopontin"
 "Prevent_Duplicate_GX_BFB_Data=1"
 "Ramp_Amplitude_Down_Rate=4"
 "Ramp_Amplitude_Up_Rate=4"
