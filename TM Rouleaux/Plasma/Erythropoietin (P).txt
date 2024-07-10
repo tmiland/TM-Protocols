@@ -1,0 +1,303 @@
+"[Preset]"
+"PresetName=Erythropoietin (P)"
+"Force_MW_to_Hz_Factor="
+"Force_DNA_to_Hz_Factor="
+"Force_RNA_to_Hz_Factor="
+"Force_mRNA_to_Hz_Factor="
+"Force_MW_Inhibit_Factor="
+"Force_Tissue_Factor="
+"Padlock=1"
+"BFB_Start_Frequency=41000"
+"BFB_Finish_Frequency=1800000"
+"BFB_Include_Octave=0"
+"BFB_Include_Sub_Octave=0"
+"BFB_Single_Scan=1"
+"BFB_Grade_Program=0"
+"Prevent_Duplicate_GX_BFB_Data=0"
+"BFB_Initial_Step_Size_Hz=100"
+"BFB_Initial_Step_Size_Hz_Selected=False"
+"BFB_Initial_Step_Size_%=.05"
+"BFB_Initial_Step_Size_%_Selected=True"
+"BFB_Max_Hits_To_Find=10"
+"BFB_Start_Delay=200"
+"Delay_for_GX_Inputs=.07"
+"BFB_Samples_Per_Step=1"
+"BFB_Loops=1"
+"BFB_Threshold=0"
+"BFB_Reverse_Lookup_Tolerance=.25"
+"BFB_Include_x_Hz_In_Search=0"
+"BFB_Calculate_Using_RA=True"
+"BFB_Calculate_Using_Peak=False"
+"BFB_RA_Window_1=20"
+"BFB_RA_Window_2=0"
+"BFB_Retentive_RA_Window_Selected=0"
+"BFB_BPM=False"
+"BFB_HRV=False"
+"BFB_Angle=False"
+"BFB_Detect_Max=True"
+"BFB_Detect_Min=False"
+"BFB_Detect_Change=0"
+"BFB_After_Scan_Run_Hits=0"
+"Baseline_Before_BFB=0"
+"BFB_Repeat_BFB=1"
+"BFB_After_Scan_Run_On_Gen=0"
+"BFB_Continue_Refining_Hits=0"
+"BFB_Detect_mA=True"
+"BFB_Detect_Angle_And_mA=False"
+"BFB_Min_BPM=30"
+"BFB_Max_BPM=130"
+"BFB_Max_HRV=30"
+"Amplitude_Modulation_Enabled=0"
+"Repeat_Each_Frequency=1"
+"Repeat_Each_Program=1"
+"Repeat_Sequence=1"
+"Repeat_Chain=0"
+"Frequency_Slider_Scale=1"
+"Frequency_Multiplier=1"
+"Frequency_Constant=0"
+"Out1_Phase_Angle=0"
+"Duty_Cycle=50"
+"Out1_Amplitude=10"
+"Out1_Offset=100"
+"Out2_Hz_Factor=0"
+"Out2_Hz_Constant=3300000"
+"Swap_Waveform_Time=0"
+"Out1_Shadow_Generator=0"
+"Out1_Shadow_Hz_Factor=1"
+"Out1_Shadow_Hz_Constant=0"
+"Schedule_Run_For=0"
+"Schedule_Delay_Start_Days=0"
+"Schedule_Delay_Start_Hours=0"
+"Schedule_Delay_Start_Minutes=0"
+"Out1_Fixed_Frequency_Hz=0"
+"Out2_Amplitude=10"
+"Out2_Offset=100"
+"Out2_Phase_Angle=0"
+"Preset_Notes=Erythropoietin
+
+Function: Hormone involved in the regulation of erythrocyte proliferation and differentiation and the maintenance of a physiological level of circulating erythrocyte mass. Binds to EPOR leading to EPOR dimerization and JAK2 activation thereby activating specific downstream effectors, including STAT1 and STAT3.
+
+Source: https://www.uniprot.org/uniprotkb/P01588
+
+From Wikipedia, the free encyclopedia
+
+Erythropoietin (EPO), also known as erythropoetin, haematopoietin, or haemopoietin, is a glycoprotein cytokine secreted mainly by the kidneys in response to cellular hypoxia; it stimulates red blood cell production (erythropoiesis) in the bone marrow. Low levels of EPO (around 10 mU/mL) are constantly secreted in sufficient quantities to compensate for normal red blood cell turnover. Common causes of cellular hypoxia resulting in elevated levels of EPO (up to 10 000 mU/mL) include any anemia, and hypoxemia due to chronic lung disease and mouth disease.
+
+Erythropoietin is produced by interstitial fibroblasts in the kidney in close association with the peritubular capillary and proximal convoluted tubule. It is also produced in perisinusoidal cells in the liver. Liver production predominates in the fetal and perinatal period; renal production predominates in adulthood. It is homologous with thrombopoietin.
+
+Exogenous erythropoietin, recombinant human erythropoietin (rhEPO), is produced by recombinant DNA technology in cell culture and are collectively called erythropoiesis-stimulating agents (ESA): two examples are epoetin alfa and epoetin beta. ESAs are used in the treatment of anemia in chronic kidney disease, anemia in myelodysplasia, and in anemia from cancer chemotherapy. Risks of therapy include death, myocardial infarction, stroke, venous thromboembolism, and tumor recurrence. Risk increases when EPO treatment raises hemoglobin levels over 11 g/dL to 12 g/dL: this is to be avoided.
+
+rhEPO has been used illicitly as a performance-enhancing drug.[4] It can often be detected in blood, due to slight differences from the endogenous protein; for example, in features of posttranslational modification.
+Pharmacology
+
+EPO is highly glycosylated (40% of total molecular weight), with half-life in blood around 5 h. EPO's half-life may vary between endogenous and various recombinant versions. Additional glycosylation or other alterations of EPO via recombinant technology have led to the increase of EPO's stability in blood (thus requiring less frequent injections).
+Function
+Red blood cell production
+
+Erythropoietin is an essential hormone for red blood cell production. Without it, definitive erythropoiesis does not take place. Under hypoxic conditions, the kidney will produce and secrete erythropoietin to increase the production of red blood cells by targeting CFU-E, proerythroblast and basophilic erythroblast subsets in the differentiation. Erythropoietin has its primary effect on red blood cell progenitors and precursors (which are found in the bone marrow in humans) by promoting their survival through protecting these cells from apoptosis, or cell death.
+
+Erythropoietin is the primary erythropoietic factor that cooperates with various other growth factors (e.g., IL-3, IL-6, glucocorticoids, and SCF) involved in the development of erythroid lineage from multipotent progenitors. The burst-forming unit-erythroid (BFU-E) cells start erythropoietin receptor expression and are sensitive to erythropoietin. Subsequent stage, the colony-forming unit-erythroid (CFU-E), expresses maximal erythropoietin receptor density and is completely dependent on erythropoietin for further differentiation. Precursors of red cells, the proerythroblasts and basophilic erythroblasts also express erythropoietin receptor and are therefore affected by it.
+Nonhematopoietic roles
+
+Erythropoietin was reported to have a range of actions beyond stimulation of erythropoiesis including vasoconstriction-dependent hypertension, stimulating angiogenesis, and promoting cell survival via activation of EPO receptors resulting in anti-apoptotic effects on ischemic tissues. However this proposal is controversial with numerous studies showing no effect.[5] It is also inconsistent with the low levels of EPO receptors on those cells. Clinical trials in humans with ischemic heart, neural and renal tissues have not demonstrated the same benefits seen in animals. In addition some research studies have shown its neuroprotective effect on diabetic neuropathy, however these data were not confirmed in clinical trials that have been conducted on the deep peroneal, superficial peroneal, tibial and sural nerves.[6]
+Mechanism of action
+
+Erythropoietin has been shown to exert its effects by binding to the erythropoietin receptor (EpoR).[7][8] EPO binds to the erythropoietin receptor on the red cell progenitor surface and activates a JAK2 signalling cascade. This initiates the STAT5, PIK3 and Ras MAPK pathways. This results in differentiation, survival and proliferation of the erythroid cell.[9] SOCS1, SOCS3 and CIS are also expressed which act as negative regulators of the cytokine signal.[10]
+
+High level erythropoietin receptor expression is localized to erythroid progenitor cells. While there are reports that EPO receptors are found in a number of other tissues, such as heart, muscle, kidney and peripheral/central nervous tissue, those results are confounded by nonspecificity of reagents such as anti-EpoR antibodies.[11] In controlled experiments, a functional EPO receptor is not detected in those tissues.[12] In the bloodstream, red cells themselves do not express erythropoietin receptor, so cannot respond to EPO. However, indirect dependence of red cell longevity in the blood on plasma erythropoietin levels has been reported, a process termed neocytolysis.[13] In addition, there is conclusive evidence that EPO receptor expression is upregulated in brain injury.[14]
+Synthesis and regulation
+
+Erythropoietin levels in blood are quite low in the absence of anemia, at around 10 mU/mL. However, in hypoxic stress, EPO production may increase up to 1000-fold, reaching 10 000 mU/mL of blood. In adults, EPO is synthesized mainly by interstitial cells in the peritubular capillary bed of the renal cortex, with additional amounts being produced in the liver,[15][16][17] and the pericytes in the brain.[18] Regulation is believed to rely on a feedback mechanism measuring blood oxygenation and iron availability.[19] Constitutively synthesized transcription factors for EPO, known as hypoxia-inducible factors, are hydroxylated and proteosomally digested in the presence of oxygen and iron. During normoxia GATA2 inhibits the promoter region for EPO. GATA2 levels decrease during hypoxia and allow the promotion of EPO production.[20]
+
+Erythropoietin production can be induced by HIF-2α as well as by PGC-1α.[21] Erythropoietin also activates these factors, resulting in a positive feedback loop.[21]
+Medical use
+
+Main article: Erythropoiesis-stimulating agent
+
+Erythropoietins available for use as therapeutic agents are produced by recombinant DNA technology in cell culture, and include Epogen/Procrit (epoetin alfa) and Aranesp (darbepoetin alfa); they are used in treating anemia resulting from chronic kidney disease,[22] chemotherapy induced anemia in patients with cancer, inflammatory bowel disease (Crohn's disease and ulcerative colitis)[23] and myelodysplasia from the treatment of cancer (chemotherapy and radiation). The package inserts include boxed warnings of increased risk of death, myocardial infarction, stroke, venous thromboembolism, and tumor recurrence, particularly when used to increase the hemoglobin levels to more than 11 g/dL to 12 g/dL.[24]
+History
+
+In 1905, Paul Carnot proposed the idea that a hormone regulates the production of red blood cells. After conducting experiments on rabbits subject to bloodletting, Carnot and his graduate student Clotilde-Camille Deflandre[25] attributed an increase in red blood cells in rabbit subjects to a hemotropic factor called hemopoietin. Eva Bonsdorff and Eeva Jalavisto called the hemopoietic substance 'erythropoietin'. K.R. Reissman and Allan J. Erslev demonstrated that a certain substance, circulated in the blood, is able to stimulate red blood cell production and increase hematocrit. This substance was purified and confirmed as erythropoietin.[19][26]
+
+In 1977, Goldwasser and Kung purified EPO.[27] Pure EPO allowed the amino acid sequence to be partially identified and the gene to be isolated.[19] Synthetic EPO was first successfully used to correct anemia in 1987.[28] In 1985, Lin et al isolated the human erythropoietin gene from a genomic phage library and used it to produce EPO.[29] In 1989, the US Food and Drug Administration (FDA) approved the hormone Epogen for use in certain anemias.[30][31]
+
+Gregg L. Semenza and Peter J. Ratcliffe studied the EPO gene and its oxygen-dependent regulation. Along with William Kaelin Jr., they were awarded the 2019 Nobel Prize in Physiology or Medicine for their discovery of hypoxia-inducible factor (HIF), which regulates the EPO gene, as well as other genes, in response to hypoxia.[32]
+Biosimilars
+See also: Biosimilars
+
+In December 2007, Retacrit and Silapo (both epoetin zeta) were approved for use in the European Union.[33][34]
+Usage as doping product
+
+As a performance-enhancing drug, EPO has been banned since the early 1990s, but a first test was not available until the 2000 Summer Olympics.[35] Before this test was available, some athletes were sanctioned after confessing to having used EPO, for example in the Festina affair, when a car with doping products for the Festina cycling team was found.
+
+The first doping test in cycling was used in the 2001 La Flèche Wallonne. The first rider to test positive in that race was Bo Hamburger, although he was later acquitted because his B-sample was not conclusive.[36]
+
+The U.S. Postal Service Pro Cycling Team, under the leadership of Lance Armstrong and Johan Bruyneel, ran a sophisticated doping program that lasted for many years during the late 1990s and early 2000s. Erythropoietin was a common substance used by the cyclists.[37]
+
+A 2007 study showed that EPO has a significant effect on exercise performance.[clarify][38] A 2017 study showed at submaximal exertion the effects of EPO were not distinguishable from a placebo. Stating [At] Submaximal [exertion]...[mean power] did not differ between groups. Nevertheless, at maximal [exertion power output was] higher in the rHuEPO group compared with the placebo group. So, even though there was no difference at lower levels of exertion at maximal exertion the EPO group still performed better than the placebo group.[39]
+
+In March 2019, American mixed martial artist and former UFC Bantamweight Champion T.J. Dillashaw tested positive for EPO in a drug test administered by USADA, and was stripped of the UFC bantamweight title and suspended for 2 years.[40] In September 2023 two-time tennis major champion Simona Halep received a 4-year suspension by the International Tennis Integrity Agency for two separate violations, one concerning the level of EPO in a blood sample collected in August 2022; Halep maintained her innocence, and indicated she would appeal the ban.[41]
+
+EPO has been used as a performance enhancing agent in horse racing since at least 2019.[42] 
+
+Source: https://en.wikipedia.org/wiki/Erythropoietin"
+"Settings_Frequency_Wobble_Percentage=0"
+"Settings_Amplitude_Wobble_Steps=16"
+"Settings_Amplitude_Wobble_Percentage=0"
+"Settings_Frequency_Wobble_Steps=16"
+"Out1_Max_Freq=3000000"
+"Out1_Min_Freq=100000"
+"Out2_Max_Freq=0"
+"Out2_Min_Freq=100000"
+"Hz_Gate=3.69"
+"Reduce_Amplitude_Frequency=1"
+"Ramp_Amplitude_Up_Rate=4"
+"Ramp_Amplitude_Down_Rate=4"
+"Gating_Out1_ms_On=125"
+"Gating_Out1_ms_Off=125"
+"Gating_Out2_ms_On=125"
+"Gating_Out2_ms_Off=125"
+"Dwell_Multiplier=1"
+"Frequency_Wobble_Dwell_Option=0"
+"Sine_WCM=1"
+"Square_WCM=1"
+"Sawtooth_WCM=1"
+"Inverted_Sawtooth_WCM=1"
+"Triangle_WCM=1"
+"Sine_Damped_WCM=8"
+"Square_Damped_WCM=8"
+"Sine_Hbomb_WCM=16"
+"Square_Hbomb_WCM=16"
+"User_Defined_1_WCM=1"
+"User_Defined_2_WCM=1"
+"Sine_Spike_Length=0"
+"Square_Spike_Length=0"
+"Sawtooth_Spike_Length=0"
+"Inverted_Sawtooth_Spike_Length=0"
+"Triangle_Spike_Length=0"
+"SineDamped_Spike_Length=0"
+"Square_Damped_Spike_Length=0"
+"Sine_Hbomb_Spike_Length=0"
+"Square_Hbomb_Spike_Length=0"
+"User_Defined_1_Spike_Length=0"
+"User_Defined_2_Spike_Length=0"
+"Sine_Spike_Ratio=2"
+"Square_Spike_Ratio=2"
+"Sawtooth_Spike_Ratio=2"
+"Inverted_Sawtooth_Spike_Ratio=2"
+"Triangle_Spike_Ratio=1"
+"Sine_Damped_Spike_Ratio=2"
+"Square_Damped_Spike_Ratio=2"
+"Sine_Hbomb_Spike_Ratio=2"
+"Square_Hbomb_Spike_Ratio=2"
+"User_Defined_1_Spike_Ratio=2"
+"User_Defined_2_Spike_Ratio=2"
+"Sine_Spectrum=0"
+"Square_Spectrum=0"
+"Sawtooth_Spectrum=0"
+"Inverted_Sawtooth_Spectrum=0"
+"Triangle_Spectrum=0"
+"Sine_Damped_Spectrum=0"
+"Square_Damped_Spectrum=0"
+"Sine_Hbomb_Spectrum=0"
+"Square_Hbomb_Spectrum=0"
+"User_Defined_1_Spectrum=0"
+"User_Defined_2_Spectrum=0"
+"F1_Factor=1"
+"F1_Phase_Angle=0"
+"Maximum_Spike_Count=0"
+"F1_Modulation_Type=Modulate F2 using F1 (AM SSB)"
+"Harmonic_Wobble=None"
+"Custom_Wobble="
+"Settings_Harmonic_Wobble_Down=0"
+"Schedule_Run_From=Midnight"
+"Schedule_Run_To=Midnight"
+"Stop_When_Complete=0"
+"After_x_Hrs_Stop=False"
+"After_x_Hrs_Advance=True"
+"Advance_When_Complete=True"
+"Out1_Frequency_Limit_Harmonic_Type=Octave"
+"Out2_Frequency_Limit_Harmonic_Type=Octave"
+"Out1_Custom_Harmonic_Factor_Divisor=2"
+"Out2_Custom_Harmonic_Factor_Divisor=2"
+"Frequency_Sort_Option=Do NOT sort frequencies"
+"Amplitude_Wobble_Type=Disabled"
+"Frequency_Wobble_Type=Disabled"
+"User_Defined_1_Waveform=UDB_Square"
+"User_Defined_2_Waveform=UDB_Square"
+"Auto_Start=False"
+"Auto_Resume=False"
+"Manual_Start=True"
+"Out2_Follow_Out1_Frequency=True"
+"Out1_Fixed_Frequency=False"
+"Gate_Hz_Option=True"
+"Gate_On_Off_Duration_Option=False"
+"Out2_Follows_Program_Frequency=False"
+"Out2_Run_Every_Second_Frequency=False"
+"Out2_Create_Sidebands=False"
+"Out1_Sine=False"
+"Out1_Square=False"
+"Out1_Sawtooth=False"
+"Out1_Inverted_Sawtooth=False"
+"Out1_Triangle=False"
+"Out1_Sine_Damped=False"
+"Out1_Square_Damped=False"
+"Out1_Sine_Hbomb=False"
+"Out1_Square_Hbomb=False"
+"Out1_User_Defined_1=True"
+"Out1_User_Defined_2=False"
+"Out2_Sine=False"
+"Out2_Square=False"
+"Out2_Sawtooth=False"
+"Out2_Inverted_Sawtooth=False"
+"Out_2_Triangle=False"
+"Out2_Sine_Damped=False"
+"Out2_Square_Damped=False"
+"Out2_Sine_Hbomb=False"
+"Out2_Square_Hbomb=False"
+"Out2_User_Defined_2=True"
+"Out2_Follow_Out1_Wave=False"
+"SpikeWave=False"
+"InverseWave=False"
+"Positive_Waveform_Only=False"
+"Negative_Waveform_Only=False"
+"Boost_Graph_MN=True"
+"Boost_Graph_BN=False"
+"Enable_F2_Modulation=1"
+"Enable_Reduce_Low_Frequency_Amplitude=0"
+"Enable_Gate_Out1=0"
+"Enable_Gate_Out2=1"
+"Enable_MW_Inhibit_Factor=0"
+"Enable_Tissue_Factor=0"
+"Enable_Remove_Duplicate_Frequencies=1"
+"Remove_Duplicate_Frequencies_Tolerance=0"
+"RunFrequencyBetweenFrequencies=0"
+"Packing_Frequency_Out1=0"
+"Packing_Frequency_Out2=0"
+"FreqToAddDwell=0"
+"Enable_Positive_Spike=1"
+"Enable_Negative_Spike=1"
+"Negative_Edge_For_Spike=0"
+"Enable_Invert_Sine=0"
+"Enable_Invert_Square=0"
+"Enable_Invert_Sawtooth=0"
+"Enable_Invert_Inverted_Sawtooth=0"
+"Enable_Invert_Triangle=0"
+"Enable_Invert_Sine_Damped=0"
+"Enable_Invert_Square_Damped=0"
+"Enable_Invert_Sine_Hbomb=0"
+"Enable_Invert_Square_Hbomb=0"
+"Enable_Invert_User_Defined_1=1"
+"Enable_Invert_User_Defined_2=1"
+"Enable_Invert_Follow_Out1_Wave=0"
+"Enable_Invert_Spike_Waveform=0"
+"Enable_Amplitude_RampUp=0"
+"Enable_Amplitude_Ramp_Down=0"
+"Enable_Swap_Frequency_And_Amplitude=0"
+"Out1_Runs_All_Freqs=1"
+"Notify_When_Zero_Hz=0"
+"Notify_When_Program_Advances=0"
+"Out2_Subtract_DataBase_Frequency=0"
+"Loaded_Programs=Erythropoietin (EPO) (CUST)"
+"Loaded_Frequencies=33571404686344800000000000=180,16899784294420400000000000=180,26370198511046600000000000=180,34926960658471100000000000=180,33121410936253200000000000=180,27257795208594000000000000=180,25916205036171200000000000=180,20056589033295800000000000=180,45968035011634200000000000=180,29527003249922000000000000=180,45968035011634200000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,23659191983336800000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,23659191983336800000000000=180,29527003249922000000000000=180,25916205036171200000000000=180,29527003249922000000000000=180,16899784294420400000000000=180,29527003249922000000000000=180,25916205036171200000000000=180,26370198511046600000000000=180,29527003249922000000000000=180,16899784294420400000000000=180,20056589033295800000000000=180,25916205036171200000000000=180,25916205036171200000000000=180,39215916524809500000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,27257795208594000000000000=180,29964606197377800000000000=180,23659191983336800000000000=180,39215916524809500000000000=180,26370198511046600000000000=180,29527003249922000000000000=180,33121410936253200000000000=180,39215916524809500000000000=180,40784046517087600000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,33121410936253200000000000=180,20056589033295800000000000=180,32907972166509700000000000=180,33121410936253200000000000=180,20056589033295800000000000=180,33121410936253200000000000=180,29742972163924500000000000=180,29527003249922000000000000=180,26815996722212200000000000=180,26815996722212200000000000=180,16899784294420400000000000=180,27257795208594000000000000=180,20056589033295800000000000=180,33121410936253200000000000=180,34926960658471100000000000=180,27257795208594000000000000=180,23659191983336800000000000=180,29527003249922000000000000=180,29742972163924500000000000=180,33121410936253200000000000=180,29742972163924500000000000=180,29527003249922000000000000=180,26815996722212200000000000=180,26370198511046600000000000=180,25916205036171200000000000=180,29964606197377800000000000=180,26815996722212200000000000=180,32907972166509700000000000=180,26370198511046600000000000=180,29742972163924500000000000=180,37181443567046600000000000=180,40784046517087600000000000=180,20056589033295800000000000=180,45968035011634200000000000=180,32907972166509700000000000=180,39215916524809500000000000=180,33571404686344800000000000=180,33121410936253200000000000=180,26370198511046600000000000=180,16899784294420400000000000=180,32899776902799900000000000=180,32899776902799900000000000=180,20056589033295800000000000=180,26370198511046600000000000=180,33121410936253200000000000=180,26370198511046600000000000=180,45968035011634200000000000=180,32899776902799900000000000=180,16899784294420400000000000=180,29527003249922000000000000=180,20056589033295800000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,23659191983336800000000000=180,33121410936253200000000000=180,20056589033295800000000000=180,26370198511046600000000000=180,29527003249922000000000000=180,39215916524809500000000000=180,16899784294420400000000000=180,32899776902799900000000000=180,20056589033295800000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,26370198511046600000000000=180,29742972163924500000000000=180,23659191983336800000000000=180,23659191983336800000000000=180,32899776902799900000000000=180,25916205036171200000000000=180,45968035011634200000000000=180,33121410936253200000000000=180,25916205036171200000000000=180,29527003249922000000000000=180,32899776902799900000000000=180,29527003249922000000000000=180,34926960658471100000000000=180,26370198511046600000000000=180,29964606197377800000000000=180,32907972166509700000000000=180,20056589033295800000000000=180,26370198511046600000000000=180,23659191983336800000000000=180,16899784294420400000000000=180,29527003249922000000000000=180,39215916524809500000000000=180,23659191983336800000000000=180,29527003249922000000000000=180,26815996722212200000000000=180,26815996722212200000000000=180,29527003249922000000000000=180,29527003249922000000000000=180,39215916524809500000000000=180,20056589033295800000000000=180,29527003249922000000000000=180,16899784294420400000000000=180,20056589033295800000000000=180,32899776902799900000000000=180,32907972166509700000000000=180,33121410936253200000000000=180,20056589033295800000000000=180,29527003249922000000000000=180,23659191983336800000000000=180,25916205036171200000000000=180,25916205036171200000000000=180,29964606197377800000000000=180,20056589033295800000000000=180,20056589033295800000000000=180,23659191983336800000000000=180,20056589033295800000000000=180,20056589033295800000000000=180,25916205036171200000000000=180,29527003249922000000000000=180,39215916524809500000000000=180,26815996722212200000000000=180,29527003249922000000000000=180,26815996722212200000000000=180,20056589033295800000000000=180,29964606197377800000000000=180,26815996722212200000000000=180,37181443567046600000000000=180,39215916524809500000000000=180,32907972166509700000000000=180,29527003249922000000000000=180,37181443567046600000000000=180,39215916524809500000000000=180,26370198511046600000000000=180,40784046517087600000000000=180,23659191983336800000000000=180,29742972163924500000000000=180,37181443567046600000000000=180,29527003249922000000000000=180,39215916524809500000000000=180,16899784294420400000000000=180,32907972166509700000000000=180,29527003249922000000000000=180,32907972166509700000000000=180,29527003249922000000000000=180,40784046517087600000000000=180,26815996722212200000000000=180,16899784294420400000000000=180,33121410936253200000000000=180,20056589033295800000000000=180,27257795208594000000000000=180,39215916524809500000000000=180,26815996722212200000000000=180,16899784294420400000000000=180,29964606197377800000000000=180,39215916524809500000000000=180,"
+"[/Preset]"
