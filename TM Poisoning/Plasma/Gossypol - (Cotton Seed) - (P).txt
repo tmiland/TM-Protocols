@@ -5,25 +5,26 @@
 "Force_RNA_to_Hz_Factor="
 "Force_mRNA_to_Hz_Factor="
 "Force_MW_Inhibit_Factor="
+"Force_Tissue_Factor="
 "Padlock=1"
-"BFB_Start_Frequency=18000000"
-"BFB_Finish_Frequency=40000000"
+"BFB_Start_Frequency=41000"
+"BFB_Finish_Frequency=1800000"
 "BFB_Include_Octave=0"
 "BFB_Include_Sub_Octave=0"
 "BFB_Single_Scan=1"
 "BFB_Grade_Program=0"
 "Prevent_Duplicate_GX_BFB_Data=0"
-"BFB_Initial_Step_Size_Hz=1"
+"BFB_Initial_Step_Size_Hz=100"
 "BFB_Initial_Step_Size_Hz_Selected=False"
-"BFB_Initial_Step_Size_%=.025"
+"BFB_Initial_Step_Size_%=.05"
 "BFB_Initial_Step_Size_%_Selected=True"
 "BFB_Max_Hits_To_Find=20"
 "BFB_Start_Delay=200"
-"Delay_for_GX_Inputs=.02"
+"Delay_for_GX_Inputs=.07"
 "BFB_Samples_Per_Step=1"
 "BFB_Loops=1"
 "BFB_Threshold=0"
-"BFB_Reverse_Lookup_Tolerance=.0125"
+"BFB_Reverse_Lookup_Tolerance=.025"
 "BFB_Include_x_Hz_In_Search=0"
 "BFB_Calculate_Using_RA=True"
 "BFB_Calculate_Using_Peak=False"
@@ -57,7 +58,7 @@
 "Out1_Phase_Angle=0"
 "Duty_Cycle=50"
 "Out1_Amplitude=10"
-"Out1_Offset=100"
+"Out1_Offset=0"
 "Out2_Hz_Factor=0"
 "Out2_Hz_Constant=3300000"
 "Swap_Waveform_Time=0"
@@ -70,9 +71,28 @@
 "Schedule_Delay_Start_Minutes=0"
 "Out1_Fixed_Frequency_Hz=0"
 "Out2_Amplitude=10"
-"Out2_Offset=100"
+"Out2_Offset=0"
 "Out2_Phase_Angle=0"
-"Preset_Notes="
+"Preset_Notes=Gossypol is a phenolic compound produced by pigment glands in cotton stems, leaves, seeds, and flower buds (Gossypium spp.). 
+
+Cottonseed meal is a by-product of cotton that is used for animal feeding because it is rich in oil and proteins. 
+However, gossypol toxicity limits cottonseed use in animal feed. 
+
+High concentrations of free gossypol may be responsible for acute clinical signs of gossypol poisoning which include respiratory distress, impaired body weight gain, anorexia, weakness, apathy, and death after several days. 
+
+However, the most common toxic effects is the impairment of male and female reproduction. 
+
+Another important toxic effect of gossypol is its interference with immune function, reducing an animal's resistance to infections and impairing the efficiency of vaccines. 
+
+Preventive procedures to limit gossypol toxicity involve treatment of the cottonseed product to reduce the concentration of free gossypol with the most common treatment being exposure to heat. 
+
+However, free gossypol can be released from the bound form during digestion. 
+
+Agronomic selection has produced cotton varieties devoid of glands producing gossypol, but these varieties are not normally grown because they are less productive and are more vulnerable to attacks by insects.
+
+Info: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033412/
+
+Source: https://pubchem.ncbi.nlm.nih.gov/compound/3503"
 "Settings_Frequency_Wobble_Percentage=0"
 "Settings_Amplitude_Wobble_Steps=16"
 "Settings_Amplitude_Wobble_Percentage=0"
@@ -160,15 +180,15 @@
 "Auto_Start=False"
 "Auto_Resume=False"
 "Manual_Start=True"
-"Out2_Follow_Out1_Frequency=False"
+"Out2_Follow_Out1_Frequency=True"
 "Out1_Fixed_Frequency=False"
 "Gate_Hz_Option=True"
 "Gate_On_Off_Duration_Option=False"
 "Out2_Follows_Program_Frequency=False"
 "Out2_Run_Every_Second_Frequency=False"
-"Out2_Create_Sidebands=True"
+"Out2_Create_Sidebands=False"
 "Out1_Sine=False"
-"Out1_Square=False"
+"Out1_Square=True"
 "Out1_Sawtooth=False"
 "Out1_Inverted_Sawtooth=False"
 "Out1_Triangle=False"
@@ -176,10 +196,10 @@
 "Out1_Square_Damped=False"
 "Out1_Sine_Hbomb=False"
 "Out1_Square_Hbomb=False"
-"Out1_User_Defined_1=True"
+"Out1_User_Defined_1=False"
 "Out1_User_Defined_2=False"
 "Out2_Sine=False"
-"Out2_Square=False"
+"Out2_Square=True"
 "Out2_Sawtooth=False"
 "Out2_Inverted_Sawtooth=False"
 "Out_2_Triangle=False"
@@ -187,7 +207,7 @@
 "Out2_Square_Damped=False"
 "Out2_Sine_Hbomb=False"
 "Out2_Square_Hbomb=False"
-"Out2_User_Defined_2=True"
+"Out2_User_Defined_2=False"
 "Out2_Follow_Out1_Wave=False"
 "SpikeWave=False"
 "InverseWave=False"
@@ -200,9 +220,10 @@
 "Enable_Gate_Out1=0"
 "Enable_Gate_Out2=1"
 "Enable_MW_Inhibit_Factor=1"
+"Enable_Tissue_Factor=0"
 "Enable_Remove_Duplicate_Frequencies=0"
 "Remove_Duplicate_Frequencies_Tolerance=.025"
-"RunFrequencyBetweenPrograms=0"
+"RunFrequencyBetweenFrequencies=0"
 "Packing_Frequency_Out1=0"
 "Packing_Frequency_Out2=0"
 "FreqToAddDwell=0"
@@ -225,7 +246,7 @@
 "Enable_Amplitude_RampUp=0"
 "Enable_Amplitude_Ramp_Down=0"
 "Enable_Swap_Frequency_And_Amplitude=0"
-"Out1_Runs_All_Freqs=1"
+"Out1_Runs_All_Freqs=0"
 "Notify_When_Zero_Hz=0"
 "Notify_When_Program_Advances=0"
 "Out2_Subtract_DataBase_Frequency=0"
